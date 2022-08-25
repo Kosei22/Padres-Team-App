@@ -1,0 +1,19 @@
+ul.contents {
+  background-color: #2f241d;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+ul img {
+  margin-left: 15px;
+}
+
+.content {
+  list-style: none;
+  font-size: 25px;
+  color: white;
+  margin-top: 10px;
+  margin-left: 100px;
+  text-decoration: none;
+}
